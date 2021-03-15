@@ -30,7 +30,7 @@
         <a class="nav-link" href="/pages/calculator.php">Calculator</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/pages/index.php">Calendar</a>
+        <a class="nav-link" href="/pages/calendar.php">Calendar</a>
       </li>
     </ul>
     <form class="form-inline mt-2 mt-md-0">
@@ -50,7 +50,7 @@
   <div class="jumbotron">
     <h1>Calendar</h1>
     <p class="lead">This is the calendar application.</p>
-    <a class="btn btn-lg btn-primary" href="/pages/index.php" role="button">Go to Calendar &raquo;</a>
+    <a class="btn btn-lg btn-primary" href="/pages/calendar.php" role="button">Go to Calendar &raquo;</a>
   </div>
 </main>
 
